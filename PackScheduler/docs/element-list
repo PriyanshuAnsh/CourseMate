@@ -1,0 +1,12 @@
+edu.ncsu.csc216.pack_scheduler.catalog
+edu.ncsu.csc216.pack_scheduler.course
+edu.ncsu.csc216.pack_scheduler.course.roll
+edu.ncsu.csc216.pack_scheduler.course.validator
+edu.ncsu.csc216.pack_scheduler.directory
+edu.ncsu.csc216.pack_scheduler.io
+edu.ncsu.csc216.pack_scheduler.manager
+edu.ncsu.csc216.pack_scheduler.ui
+edu.ncsu.csc216.pack_scheduler.user
+edu.ncsu.csc216.pack_scheduler.user.schedule
+edu.ncsu.csc216.pack_scheduler.util
+edu.ncsu.csc217.collections.list

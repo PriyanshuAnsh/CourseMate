@@ -1,0 +1,2 @@
+CSC216,Software Development Fundamentals,001,3,jtimberlake,10,MW,1330,1445
+CSC226,Discrete Math,001,3,psdongre,10,TH,1330,1445
