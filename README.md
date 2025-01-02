@@ -1,24 +1,42 @@
-# csc217-204-LR3-6
+# CourseMate
 
-## Lab 09
--  **TASK1_Finish_Implementing_ArrayQueue_&_LinkedListQueue** | **Owner: Priyanshu**, **Due: Nov 7**, **Status: Done**
--  **TASK2_Finish_Testing_ArrayQueue_&_LinkedListQueue** | **Owner: Priyanshu**, **Due: Nov 7**, **Status: Done**
--  **TASK3_Finish_Implementing_ArrayStack_&_LinkedListStack** | **Owner: Suyash**, **Due: Nov 10**, **Status: Done**
--  **TASK4_Finish_Optimising_LinkedAbstractList** | **Owner: Priyanshu**, **Due: Nov 8**, **Status: Done**
--  **TASK5_Finish_Updating_CourseRoll** | **Owner: Suyash**, **Due: Nov 10**, **Status: Done**
--  **TASK6_Finish_StaticAnalysis_&_JavaDocs** | **Owner: Priyanshu**, **Due: Nov 10**, **Status: Done**
--  **TASK7_Finish_SystemTestPlan** | **Owner: Suyash**, **Due: Nov 10**, **Status: Done** 
+**CourseMate** is a Java-based application designed to streamline course allocation for faculty and students. Utilizing robust data structures and Java libraries, it provides a seamless experience for managing and organizing academic courses.
 
-## Lab 10
--  **TASK1_Finish_Implementing_&_Testing_LinkedList** | **Owner: Suyash**, **Due: Nov 18**, **Status: Done**
--  **TASK2_Finish_Implementing_&_Testing_FacultyDirectory** | **Owner: Priyanshu**, **Due: Nov 18**, **Status: Done**
--  **TASK3_Finish_Implementing_&_Testing_Faculty** | **Owner: Suyash**, **Due: Nov 18**, **Status: Done**
--  **TASK4_Finish_Implementing_&_Testing_FacultyRecordIO** | **Owner: Priyanshu**, **Due: Nov 18**, **Status: Done**
--  **TASK5_Finish_Updating_RegistrationManager** | **Owner: Priyanshu**, **Due: Nov 18**, **Status: Done**
+## Features
+- **Course Allocation**: Assign courses to faculty and students efficiently.
+- **Data Persistence**: Load and save data to ensure all records are secure and accessible.
+- **User-Friendly Interface**: Built with Java AWT and Swing libraries for an intuitive and responsive user interface.
+- **Efficient Data Handling**: Uses data structures like `List` and `LinkedList` for optimized performance.
 
-## Lab 11
--  **TASK1_Finish_Implementing_&_Testing_LinkedListRecursive** | **Owner: Priyanshu**, **Due: Nov 30**, **Status: Done**
--  **TASK2_Finish_Implementing_&_Testing_FacultySchedule** | **Owner: Suyash**, **Due: Dec 1**, **Status: Done**
--  **TASK3_Finish_Updating_Faculty** | **Owner: Suyash**, **Due: Nov 30**, **Status: Done**
--  **TASK4_Update_And_Test_Course_and_CourseRecordIO** | **Owner: Suyash**, **Due: Dec 1**, **Status: Done**
--  **TASK5_Finish_Updating_RegistrationManager** | **Owner: Priyanshu**, **Due: Dec 1**, **Status: Done**
+## Technologies Used
+- **Programming Language**: Java
+- **Libraries**: AWT, Swing
+- **Data Structures**: List, LinkedList
+
+## How to Use
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/CourseMate.git
+   ```
+
+2. **Compile the Code**
+   Navigate to the project directory and compile the source files:
+   ```bash
+   javac -d bin PackScheduler/src/edu/ncsu/csc216/pack_scheduler/*.java
+   ```
+
+3. **Run the Application**
+   Execute the main class to launch the application:
+   ```bash
+   java -cp bin PackScheduler/src/edu/ncsu/csc216/pack_scheduler/ui/PackSchedulerGUI.java
+   ```
+
+4. **Load Data**
+   Use the file menu to load existing data from a text file.
+
+5. **Save Data**
+   Save your changes and course allocations to a text file for future use.
+
+
+
+
